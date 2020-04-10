@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\CafeTests\bin\Debug\CafeTests.dll
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\CafeTests\bin\Debug\CafeTests.pdb
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\CafeTests\bin\Debug\Cafe_Repo.dll
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\CafeTests\bin\Debug\Cafe_Repo.pdb
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\CafeTests\obj\Debug\CafeTests.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\CafeTests\obj\Debug\CafeTests.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\CafeTests\obj\Debug\CafeTests.csproj.CopyComplete
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\CafeTests\obj\Debug\CafeTests.dll
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\CafeTests\obj\Debug\CafeTests.pdb

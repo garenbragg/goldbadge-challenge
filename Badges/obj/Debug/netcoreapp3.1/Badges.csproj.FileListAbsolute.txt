@@ -11,3 +11,16 @@ C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\Badges\bin\Debug\netcoreapp3.1\Badges
 C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\Badges\obj\Debug\netcoreapp3.1\Badges.dll
 C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\Badges\obj\Debug\netcoreapp3.1\Badges.pdb
 C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\Badges\obj\Debug\netcoreapp3.1\Badges.genruntimeconfig.cache
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Badges\bin\Debug\netcoreapp3.1\Badges.exe
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Badges\bin\Debug\netcoreapp3.1\Badges.deps.json
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Badges\bin\Debug\netcoreapp3.1\Badges.runtimeconfig.json
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Badges\bin\Debug\netcoreapp3.1\Badges.runtimeconfig.dev.json
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Badges\bin\Debug\netcoreapp3.1\Badges.dll
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Badges\bin\Debug\netcoreapp3.1\Badges.pdb
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Badges\obj\Debug\netcoreapp3.1\Badges.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Badges\obj\Debug\netcoreapp3.1\Badges.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Badges\obj\Debug\netcoreapp3.1\Badges.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Badges\obj\Debug\netcoreapp3.1\Badges.AssemblyInfo.cs
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Badges\obj\Debug\netcoreapp3.1\Badges.dll
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Badges\obj\Debug\netcoreapp3.1\Badges.pdb
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Badges\obj\Debug\netcoreapp3.1\Badges.genruntimeconfig.cache

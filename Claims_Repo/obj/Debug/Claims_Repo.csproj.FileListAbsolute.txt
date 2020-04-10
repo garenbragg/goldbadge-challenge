@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Claims_Repo\bin\Debug\Claims_Repo.dll
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Claims_Repo\bin\Debug\Claims_Repo.pdb
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Claims_Repo\obj\Debug\Claims_Repo.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Claims_Repo\obj\Debug\Claims_Repo.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Claims_Repo\obj\Debug\Claims_Repo.dll
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Claims_Repo\obj\Debug\Claims_Repo.pdb

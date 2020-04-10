@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Badges
 {
-    class BadgeRepository
+    public class BadgeRepository
     {
         Dictionary<int, List<string>> keys = new Dictionary<int, List<string>>();   //I now see that this is not needed, but it works for the instructional purposes for which it was intended
         protected readonly List<Badge> _allBadges = new List<Badge>();
