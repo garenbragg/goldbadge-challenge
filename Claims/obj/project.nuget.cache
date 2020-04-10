@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A+Ps5/lF303bogcEhvQNbMaC7b+tvTPmUkLc2OTWuShYKZ3nNnDzo9dewP8QVwOp7omPPrKiwCJs13mJ4gE9Cw==",
+  "dgSpecHash": "7plN3E/mkD0UiH6810dXU3SpOg9+XuhY3wytqpIpgNvxNXpel4Yzhz+44e1lFLgyfCMGWCld/8ydgOdHrzDQpQ==",
   "success": true,
-  "projectFilePath": "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\Claims\\Claims.csproj",
+  "projectFilePath": "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\GoldBadge\\goldbadge-challenge\\Claims\\Claims.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

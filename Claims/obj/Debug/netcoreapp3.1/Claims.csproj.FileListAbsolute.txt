@@ -11,3 +11,16 @@ C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\Claims\obj\Debug\netcoreapp3.1\Claims
 C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\Claims\obj\Debug\netcoreapp3.1\Claims.dll
 C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\Claims\obj\Debug\netcoreapp3.1\Claims.pdb
 C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\Claims\obj\Debug\netcoreapp3.1\Claims.genruntimeconfig.cache
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Claims\bin\Debug\netcoreapp3.1\Claims.exe
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Claims\bin\Debug\netcoreapp3.1\Claims.deps.json
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Claims\bin\Debug\netcoreapp3.1\Claims.runtimeconfig.json
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Claims\bin\Debug\netcoreapp3.1\Claims.runtimeconfig.dev.json
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Claims\bin\Debug\netcoreapp3.1\Claims.dll
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Claims\bin\Debug\netcoreapp3.1\Claims.pdb
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Claims\obj\Debug\netcoreapp3.1\Claims.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Claims\obj\Debug\netcoreapp3.1\Claims.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Claims\obj\Debug\netcoreapp3.1\Claims.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Claims\obj\Debug\netcoreapp3.1\Claims.AssemblyInfo.cs
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Claims\obj\Debug\netcoreapp3.1\Claims.dll
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Claims\obj\Debug\netcoreapp3.1\Claims.pdb
+C:\ElevenFiftyProjects\SD48 GOLD\GoldBadge\GoldBadge\goldbadge-challenge\Claims\obj\Debug\netcoreapp3.1\Claims.genruntimeconfig.cache

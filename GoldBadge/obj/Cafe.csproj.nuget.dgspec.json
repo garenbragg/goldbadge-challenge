@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\GoldBadge\\goldbadge-challenge\\Badges\\Badges.csproj": {}
+    "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\GoldBadge\\goldbadge-challenge\\GoldBadge\\Cafe.csproj": {}
   },
   "projects": {
-    "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\GoldBadge\\goldbadge-challenge\\Badges\\Badges.csproj": {
+    "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\GoldBadge\\goldbadge-challenge\\GoldBadge\\Cafe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\GoldBadge\\goldbadge-challenge\\Badges\\Badges.csproj",
-        "projectName": "Badges",
-        "projectPath": "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\GoldBadge\\goldbadge-challenge\\Badges\\Badges.csproj",
+        "projectUniqueName": "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\GoldBadge\\goldbadge-challenge\\GoldBadge\\Cafe.csproj",
+        "projectName": "Cafe",
+        "projectPath": "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\GoldBadge\\goldbadge-challenge\\GoldBadge\\Cafe.csproj",
         "packagesPath": "C:\\Users\\garen\\.nuget\\packages\\",
-        "outputPath": "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\GoldBadge\\goldbadge-challenge\\Badges\\obj\\",
+        "outputPath": "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\GoldBadge\\goldbadge-challenge\\GoldBadge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\garen\\AppData\\Roaming\\NuGet\\NuGet.Config",

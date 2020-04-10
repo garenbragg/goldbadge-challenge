@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\Claims\\Claims.csproj": {}
+    "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\GoldBadge\\goldbadge-challenge\\Claims\\Claims.csproj": {}
   },
   "projects": {
-    "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\Claims\\Claims.csproj": {
+    "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\GoldBadge\\goldbadge-challenge\\Claims\\Claims.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\Claims\\Claims.csproj",
+        "projectUniqueName": "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\GoldBadge\\goldbadge-challenge\\Claims\\Claims.csproj",
         "projectName": "Claims",
-        "projectPath": "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\Claims\\Claims.csproj",
+        "projectPath": "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\GoldBadge\\goldbadge-challenge\\Claims\\Claims.csproj",
         "packagesPath": "C:\\Users\\garen\\.nuget\\packages\\",
-        "outputPath": "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\Claims\\obj\\",
+        "outputPath": "C:\\ElevenFiftyProjects\\SD48 GOLD\\GoldBadge\\GoldBadge\\goldbadge-challenge\\Claims\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\garen\\AppData\\Roaming\\NuGet\\NuGet.Config",
